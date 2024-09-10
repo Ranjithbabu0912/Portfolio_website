@@ -12,20 +12,30 @@ Hosting: vercel
 ## Screenshots 
 
 HOME PAGE-
+![Home page](https://github.com/user-attachments/assets/bbe0bc79-66c4-42fd-aff2-2f79770f21c4)
 
-ABOUT & SKILLS PAGE-
+ABOUT PAGE-
+![About page](https://github.com/user-attachments/assets/33e754dc-8371-4978-9901-e912081696e3)
 
 PROJECTS PAGE-
+![Projects page](https://github.com/user-attachments/assets/2225d72f-1215-4768-a561-711a7ab28217)
 
+SKILLS PAGE-
+![Skills page](https://github.com/user-attachments/assets/028875c1-198d-49fd-adb3-246b9b3b131b)
 
 CONTACT PAGE-
+![Contact page)](https://github.com/user-attachments/assets/eea1929b-cbcb-4cc1-8ad1-bd5a2decabdb)
+
+DARK THEME-
+![Dark theme page](https://github.com/user-attachments/assets/710ccb31-5c70-42b7-bc0e-2a133a032900)
 
 
 
 
 
 
-[View Live Demo]()
+
+[View Live Demo](https://portfolio-website-livid-nine.vercel.app/)
 
 
 ## Run Locally
@@ -33,7 +43,7 @@ CONTACT PAGE-
 Clone the project
 
 ```bash
-  git clone https://github.com/Ranjithbabu0912/Portfolio.git
+  git clone https://github.com/Ranjithbabu0912/Portfolio_website.git
 ```
 
 Go to the project directory
@@ -41,7 +51,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  cd portfolio
+  cd Portfolio_website
 ```
 
 ```bash
@@ -62,5 +72,5 @@ If you have any questions or need assistance, please don’t hesitate to reach o
 
 ## License
 
-[MIT](https://github.com/Ranjithbabu0912/portfolio/blob/main/LICENSE)
+[MIT](https://github.com/Ranjithbabu0912/Portfolio_website/blob/main/LICENSE)
 
