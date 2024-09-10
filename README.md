@@ -21,14 +21,13 @@ PROJECTS PAGE-
 ![Projects page](https://github.com/user-attachments/assets/2225d72f-1215-4768-a561-711a7ab28217)
 
 SKILLS PAGE-
-![Skills page](https://github.com/user-attachments/assets/028875c1-198d-49fd-adb3-246b9b3b131b)
+![skills page](https://github.com/user-attachments/assets/d10e7974-fe35-4af5-a25b-84bdcc95a5cc)
 
 CONTACT PAGE-
 ![Contact page)](https://github.com/user-attachments/assets/eea1929b-cbcb-4cc1-8ad1-bd5a2decabdb)
 
 DARK THEME-
-![Dark theme page](https://github.com/user-attachments/assets/710ccb31-5c70-42b7-bc0e-2a133a032900)
-
+![dark theme home page](https://github.com/user-attachments/assets/9d48acbd-5274-4c10-b7c8-cf6867b56bba)
 
 
 
